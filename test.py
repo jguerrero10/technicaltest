@@ -1,5 +1,5 @@
 import unittest
-from utils import Struct
+from models import Struct
 
 
 class TestStruct(unittest.TestCase):
